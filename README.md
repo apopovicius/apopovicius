@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrei Popovici
 - 👀 I’m interested in programming & crypto
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m not looking for any collaboration
+- ❤️ I love traveling
 - 📫 How to reach me: popovici.andrey@gmail.com
 
 <!---
