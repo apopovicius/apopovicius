@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrei Popovici
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming & crypto
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m not looking for any collaboration
 - 📫 How to reach me: popovici.andrey@gmail.com
@@ -22,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 * [System Programming](https://github.com/angrave/SystemProgramming/wiki)
 
 * [Awesome C++](https://github.com/fffaraz/awesome-cpp)
+
+![IMG_3219](https://user-images.githubusercontent.com/27801577/171295756-aa3044d4-ff8a-4588-b0e8-7cac02c12546.JPEG)
