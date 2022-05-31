@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apopovicius
+- 👋 Hi, I’m Andrei Popovici
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m not looking for any collaboration
