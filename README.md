@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - ❤️ I love traveling
 - 📫 How to reach me: popovici.andrey@gmail.com
+- 🧥 [CV](https://apopovicius.github.io/digital_resume/)
 
 <!---
 apopovicius/apopovicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
