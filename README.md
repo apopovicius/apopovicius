@@ -4,18 +4,18 @@ $ apopovicius --help
 Usage: apopovicius &lt;command&gt; [options]
 
 Commands:
-  code       Build backend systems, automation, and developer tools      [💻 JavaScript, Typescript, Node.js, NestJs, AWS]
-  learn      Currently focused on sharpening backend skills              [📚 Daily exploration]
-  hobby      Exploring cultures and places beyond the keyboard           [❤️ to travel 🌍]
-  contact    Reach me @ andrei@popovici.dev                              [📫 contact me]
-  connect    Visit my LinkedIn profile                                   [💼 linkedin.com/in/apopovicius]
-  cv         View my interactive resume                                  [🧥 apopovicius.github.io/digital_resume]
+  code       💻 Build backend systems, automation, and developer tools      [JS, TS, Node.js, NestJs, AWS]
+  learn      📚 Currently focused on sharpening backend skills              [Daily exploration]
+  hobby      🌍 Exploring cultures and places beyond the keyboard           [❤️ to travel]
+  contact    📫 Reach me by email                                           [andrei@popovici.dev]
+  connect    💼 Visit my LinkedIn profile                                   [linkedin.com/in/apopovicius]
+  cv         🧥 View my interactive resume                                  [apopovicius.github.io/digital_resume]
 
 Options:
   -h, --help       Show this message
 </code></pre>
 
-[CV](https://apopovicius.github.io/digital_resume/) | [LinkdeIn](httsp://linkedin.com/in/apopovicius/)
+[CV](https://apopovicius.github.io/digital_resume/) | [LinkdeIn](https://linkedin.com/in/apopovicius/)
 
 
 <!---
