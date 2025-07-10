@@ -15,7 +15,7 @@ Options:
   -h, --help       Show this message
 </code></pre>
 
-[CV](https://apopovicius.github.io/digital_resume/) | [LinkdeIn](https://linkedin.com/in/andrei-popovici/)
+[CV](https://apopovicius.github.io/digital_resume/) | [LinkdeIn](https://linkedin.com/in/andrei-popovici/){:target="_blank"}
 
 
 <!---
