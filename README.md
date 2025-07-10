@@ -1,9 +1,23 @@
-- 👋 Hi, I’m Andrei Popovici
-- 👀 I’m interested in programming & crypto
-- 🌱 I’m currently learning JavaScript
-- ❤️ I love traveling
-- 📫 How to reach me: andrei@popovici.dev
-- 🧥 [CV](https://apopovicius.github.io/digital_resume/)
+<pre><code>```bash
+$ apopovicius --help
+
+Usage: apopovicius &lt;command&gt; [options]
+
+Commands:
+  code       Build backend systems, automation, and developer tools      [💻 JavaScript, Typescript, Node.js, NestJs, AWS]
+  learn      Currently focused on sharpening backend skills              [📚 Daily exploration]
+  hobby      Exploring cultures and places beyond the keyboard           [❤️ to travel 🌍]
+  contact    Reach me @ andrei@popovici.dev                              [📫 contact me]
+  connect    Visit my LinkedIn profile                                   [💼 linkedin.com/in/apopovicius]
+  cv         View my interactive resume                                  [🧥 apopovicius.github.io/digital_resume]
+
+Options:
+  -h, --help       Show this message
+```
+</code></pre>
+
+[CV](https://apopovicius.github.io/digital_resume/) | [LinkdeIn](httsp://linkedin.com/in/apopovicius)
+
 
 <!---
 apopovicius/apopovicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
