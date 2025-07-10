@@ -1,4 +1,4 @@
-<pre><code>```bash
+<pre><code>
 $ apopovicius --help
 
 Usage: apopovicius &lt;command&gt; [options]
@@ -13,10 +13,9 @@ Commands:
 
 Options:
   -h, --help       Show this message
-```
 </code></pre>
 
-[CV](https://apopovicius.github.io/digital_resume/) | [LinkdeIn](httsp://linkedin.com/in/apopovicius)
+[CV](https://apopovicius.github.io/digital_resume/) | [LinkdeIn](httsp://linkedin.com/in/apopovicius/)
 
 
 <!---
