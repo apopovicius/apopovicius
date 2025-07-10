@@ -8,14 +8,14 @@ Commands:
   learn      📚 Currently focused on sharpening backend skills          [Daily exploration]
   hobby      🌍 Exploring cultures and places beyond the keyboard       [❤️ to travel]
   contact    📫 Reach me by email                                       [andrei@popovici.dev]
-  connect    💼 Visit my LinkedIn profile                               [linkedin.com/in/apopovicius]
+  connect    💼 Visit my LinkedIn profile                               [linkedin.com/in/andrei-popovici]
   cv         🧥 View my interactive resume                              [apopovicius.github.io/digital_resume]
 
 Options:
   -h, --help       Show this message
 </code></pre>
 
-[CV](https://apopovicius.github.io/digital_resume/) | [LinkdeIn](https://linkedin.com/in/apopovicius/)
+[CV](https://apopovicius.github.io/digital_resume/) | [LinkdeIn](https://linkedin.com/in/andrei-popovici/)
 
 
 <!---
